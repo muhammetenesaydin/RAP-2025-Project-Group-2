@@ -45,7 +45,7 @@ Bu proje, bir Summit XL robotunu simülasyon ortamında Yapay Zeka (LLM) ile kon
     ```
     ```bash
     # Konteyner içinde:
-    python3 /home/ros/rap/Gruppe2/project_source/rosa_summit/rosa_summit.py
+    python3 /rap/Gruppe2/rosa_summit/rosa_summit.py
     ```
 
 ---
